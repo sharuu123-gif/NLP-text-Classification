@@ -1,0 +1,15 @@
+nlp_env/
+__pycache__/
+*.pyc
+*.pyo
+.env
+data/raw/
+data/processed/
+data/scrapped/
+saved_models/
+outputs/
+.ipynb_checkpoints/
+*.pth
+*.bin
+*.h5
+.DS_Store
